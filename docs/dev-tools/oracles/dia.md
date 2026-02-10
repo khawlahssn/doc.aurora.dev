@@ -6,10 +6,10 @@ title: DIA
 
 ## Key Features
 
-- Complete verifiability from source to smart contract
-- 20,000+ assets supported across different asset classes (token price feeds, RWAs, fundamental feeds, onchain randomness)
-- Direct data sourcing from 100+ primary markets eliminates intermediary risk
-- Custom oracle configuration with tailored sources and methodologies
+- Complete verifiability from source to destination smart contract.
+- Direct data sourcing from 100+ primary markets eliminates intermediary risk.
+- Support for 20,000+ assets across all major asset classes.
+- Custom oracle configuration with tailored sources and methodologies.
 
 ## How to Access Price Feeds
 
