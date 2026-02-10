@@ -7,7 +7,7 @@ title: DIA
 ## Key Features
 
 - Complete verifiability from source to destination smart contract.
-- Direct data sourcing from 100+ primary markets eliminates intermediary risk.
+- Direct data sourcing from 100+ primary markets eliminating intermediary risk.
 - Support for 20,000+ assets across all major asset classes.
 - Custom oracle configuration with tailored sources and methodologies.
 
@@ -37,7 +37,7 @@ contract DIAOracleV2Consumer{
         uint128 latestPrice,
         uint128 timestampOfLatestPrice
     ) {
-        (latestPrice, timestampOflatestPrice) =
+        (latestPrice, timestampOfLatestPrice) =
                  IDIAOracleV2(ORACLE).getValue(key);
     }
 }
